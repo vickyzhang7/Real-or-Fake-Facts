@@ -1,6 +1,8 @@
 # About The Project
 
-Project Summary:
+## Introduction
+
+**Project Summary**:
 
 This project is a full-stack web development endeavor with the goal of creating a user-friendly news-sharing platform. Users are able to post news and news links, then evaluate content based on its appeal through voting. The project encompasses both front-end and back-end technologies, along with the implementation of various features.
 
@@ -48,7 +50,16 @@ Major frameworks and libraries
    ```
 3. Enter your API in `script.js` and `supabase.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   async function loadFacts() {
+  const res = await fetch(
+    "YOUR FACTS",
+    {
+      headers: {
+        apikey: "YOUR API KEY",
+        authorization: "Bearer YOUR API KEY",
+      },
+    }
+  );;
    ```
 4. Start
    ```sh
@@ -56,6 +67,8 @@ Major frameworks and libraries
    ```
 
 ## interface screenshot
+
+
 
 
 **Note:**
