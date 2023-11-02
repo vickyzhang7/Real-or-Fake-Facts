@@ -54,9 +54,9 @@ This project is a full-stack web development endeavor with the goal of creating 
     headers: {
       apikey: "YOUR API KEY",
       authorization: "Bearer YOUR API KEY",
-    },
-  });
+    },});
    ```
+
 4. Start
    ```sh
    npm start
