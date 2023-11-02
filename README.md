@@ -6,14 +6,25 @@ This project was to Create React Website
 
 Major frameworks/libraries
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![React][React-icon]][React-url]
+* [![Supabase][Supabase-icon]][Supabase-url]
+* [![HTML][HTML-icon]][HTML-url]
+* [![CSS][CSS-icon]][CSS-url]
+* [![JavaScript][JavaScript-icon]][JavaScript-url]
+
+
+
+[React-url]:https://reactjs.org/
+[React-icon]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[Supabase-url]:https://supabase.com/
+[Supabase-icon]:https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[HTML-url]:https://html.com/
+[HTML-icon]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS-url]:https://www.css3.com/
+[CSS-icon]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[JavaScript-url]:https://www.javascript.com/
+[JavaScript-icon]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Available Scripts
