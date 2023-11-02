@@ -69,12 +69,14 @@ This project is a full-stack web development endeavor with the goal of creating 
  1. **Database Browsing**:
 
 Users can access a variety of news and information stored in the database. This allows users to explore the contents of the database, including news, articles, and other related information.
+<br>
 <img width="1414" alt="Screen Shot 2023-11-01 at 7 14 07 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/039961b2-cf7e-4d96-bb49-d0d59523b6f7">
 <br>
 
   2. **News Posting and Storage**:
    
 Users can post news they've come across, adding links and categories to the news. This information is securely stored in the database for future reference and sharing. This provides users with a convenient platform to share their discoveries and interests with other users.
+
 <img width="1385" alt="Screen Shot 2023-11-01 at 7 16 06 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/178e626b-ce8c-45b7-94ed-b81e71cd9bdb">
 <br>   
 
