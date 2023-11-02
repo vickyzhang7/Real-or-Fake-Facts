@@ -2,7 +2,7 @@
 
 Project Summary:
 
-This project is a full-stack web development endeavor with the goal of creating a user-friendly news sharing platform. Users are able to post news and evaluate content based on its appeal through voting. The project encompasses both front-end and back-end technologies, along with the implementation of various features.
+This project is a full-stack web development endeavor with the goal of creating a user-friendly news-sharing platform. Users are able to post news and news links, then evaluate content based on its appeal through voting. The project encompasses both front-end and back-end technologies, along with the implementation of various features.
 
 **Key Highlights**:
 
@@ -12,9 +12,6 @@ This project is a full-stack web development endeavor with the goal of creating 
 
 3. **Rich Functionality**: The project encompasses a variety of functionalities, including the "voting functionality." Users can vote on news items, marking them as interesting, mind-blowing, or false, thereby enhancing user engagement and content evaluation. Additionally, data validation is implemented to ensure the accuracy and credibility of user-provided data, ultimately enhancing data quality and reliability.
 
-**Conclusion**:
-
-This full-stack web development project not only demonstrates adept application of front-end and back-end technologies but also underscores the professional skills required for implementing features and data validation in real-world projects. Through this project, we have successfully created a user-friendly news-sharing platform, offering an interactive and content-rich experience to users. The experience and skills gained from this project will undoubtedly find ample application in future full-stack development endeavors.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
