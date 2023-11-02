@@ -2,11 +2,16 @@
 
 This project was to Create React Website
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Major frameworks/libraries
+
 * [![React][React-icon]][React-url]
 * [![Supabase][Supabase-icon]][Supabase-url]
 * [![HTML][HTML-icon]][HTML-url]
 * [![CSS][CSS-icon]][CSS-url]
 * [![JavaScript][JavaScript-icon]][JavaScript-url]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Available Scripts
 
