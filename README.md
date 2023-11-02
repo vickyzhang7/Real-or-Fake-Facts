@@ -50,7 +50,8 @@ This project is a full-stack web development endeavor with the goal of creating 
    ```
 3. Enter your API in `script.js` and `supabase.js`
    ```js
-   async function loadFacts() {const res = await fetch("YOUR FACTS",{headers: {apikey: "YOUR API KEY",authorization: "Bearer YOUR API KEY",},});;
+   async function loadFacts() {
+      const res = await fetch("YOUR FACTS",{headers: {apikey: "YOUR API KEY",authorization: "Bearer YOUR API KEY",},});;
    ```
 4. Start
    ```sh
