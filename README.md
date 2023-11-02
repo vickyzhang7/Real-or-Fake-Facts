@@ -49,18 +49,15 @@ This project is a full-stack web development endeavor with the goal of creating 
    npm install
    ```
 3. Enter your API in `script.js` and `supabase.js`
-   ```javascript
-async function loadFacts() {  
-const res = await fetch("YOUR FACTS", {
+   ```js
+   const res = await fetch("YOUR FACTS", {
     headers: {
       apikey: "YOUR API KEY",
       authorization: "Bearer YOUR API KEY",
     },
   });
-}
    ```
-
-5. Start
+4. Start
    ```sh
    npm start
    ```
