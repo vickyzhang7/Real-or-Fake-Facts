@@ -74,6 +74,7 @@ Users can access a variety of news and information stored in the database. This 
 
    <img width="1414" alt="Screen Shot 2023-11-01 at 7 14 07 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/039961b2-cf7e-4d96-bb49-d0d59523b6f7">
 
+
 2.**News Posting and Storage**:
    
 Users can post news they've come across, adding links and categories to the news. This information is securely stored in the database for future reference and sharing. This provides users with a convenient platform to share their discoveries and interests with other users.
@@ -86,6 +87,7 @@ Users can post news they've come across, adding links and categories to the news
 Users can vote on news articles, including rating them for their level of interest, how mind-blowing they are, and their credibility. All voting data is recorded and used to re-sort the news list. News articles are ranked based on the number of "interesting" votes, ensuring that users see the most intriguing news first. This provides an interactive and dynamic news browsing experience.
 
    <img width="1406" alt="Screen Shot 2023-11-01 at 7 17 03 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/74450d76-7c07-4249-bd60-eaf06ffe7cb7">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
