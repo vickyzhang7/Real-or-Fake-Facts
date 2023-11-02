@@ -6,13 +6,14 @@ This project was to Create React Website
 
 Major frameworks/libraries
 
-* [![React][React-icon]][React-url]
-* [![Supabase][Supabase.com]][Supabase-url]
-* [![HTML][HTML-icon]][HTML-url]
-* [![CSS][CSS-icon]][CSS-url]
-* [![JavaScript][JavaScript-icon]][JavaScript-url]
-
-*  [ de 
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Available Scripts
