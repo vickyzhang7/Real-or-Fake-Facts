@@ -2,6 +2,12 @@
 
 This project was to Create React Website
 
+* [![React][React-icon]][React-url]
+* [![Supabase][Supabase-icon]][Supabase-url]
+* [![HTML][HTML-icon]][HTML-url]
+* [![CSS][CSS-icon]][CSS-url]
+* [![JavaScript][JavaScript-icon]][JavaScript-url]
+
 ## Available Scripts
 
 In the project directory, you can run:
