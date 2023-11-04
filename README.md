@@ -17,6 +17,7 @@ This project is a full-stack web development endeavor with the goal of creating 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 **Major frameworks and libraries**:
 
 * [![JavaScript][JavaScript-icon]][JavaScript-url]
