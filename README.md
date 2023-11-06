@@ -28,14 +28,14 @@ This project is a full-stack web development endeavor with the goal of creating 
 
 [React-url]:https://reactjs.org/
 [React-icon]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[Supabase-url]:https://supabase.com/
-[Supabase-icon]:https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 [HTML-url]:https://html.com/
 [HTML-icon]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS-url]:https://www.css3.com/
 [CSS-icon]:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript-url]:https://www.javascript.com/
 [JavaScript-icon]:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Supabase-url]:https://supabase.com/
+[Supabase-icon]:https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
