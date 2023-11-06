@@ -4,7 +4,7 @@
 
 **Project Summary**:
 
-This project is a full-stack web development endeavor with the goal of creating a user-friendly news-sharing platform. Users are able to post news and news links, then evaluate content based on its appeal through voting. The project encompasses both front-end and back-end technologies, along with the implementation of various features.
+This project is a full-stack web development endeavor with the goal of creating a user-friendly news-sharing platform. Users are able to post news and news links, and then evaluate content based on its appeal through voting. The project encompasses both front-end and back-end technologies, along with the implementation of various features.
 
 **Key Highlights**:
 
