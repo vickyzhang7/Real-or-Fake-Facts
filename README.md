@@ -41,7 +41,7 @@ This project is a full-stack web development endeavor with the goal of creating 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## interface screenshot
+## Interface Screenshot
 
 
 1. **Database Browsing**:
