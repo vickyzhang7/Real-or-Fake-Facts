@@ -13,6 +13,7 @@ This project is a full-stack web development endeavor with the goal of creating 
 * [![HTML][HTML-icon]][HTML-url]
 * [![CSS][CSS-icon]][CSS-url]
 * [![Supabase][Supabase-icon]][Supabase-url]
+  
 
 [React-url]:https://reactjs.org/
 [React-icon]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
