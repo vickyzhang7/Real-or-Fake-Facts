@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import supabase from './supabase';
-
 import './style.css';
 function Counter() {
   const [count, setCount] = useState(0);
