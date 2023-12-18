@@ -29,7 +29,6 @@ This project is a full-stack web development endeavor with the goal of creating 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 **Key Highlights**:
 
 1. **Front-End Proficiency**: In the realm of front-end development, the project prominently showcases the application of the React library. This includes the use of React Hooks such as useState and useEffect to craft interactive user interfaces. Through React, we have successfully realized dynamic user interfaces, enabling users to effortlessly post news and cast their votes.
