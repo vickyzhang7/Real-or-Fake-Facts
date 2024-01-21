@@ -82,11 +82,16 @@ This project is a full-stack web development endeavor with the goal of creating 
    ```sh
    gh repo clone vickyzhang7/Real-or-Fake-Facts
    ```
-2. Install NPM packages
+2. Update your Node.js
+   ```sh
+   nvm install 20.5.0
+   nvm use 20.5.0
+   ```
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Enter your API in `script.js` and `supabase.js`
+4. Enter your API in `script.js` and `supabase.js`
    ```js
    const res = await fetch("YOUR FACTS", {
     headers: {
@@ -95,7 +100,7 @@ This project is a full-stack web development endeavor with the goal of creating 
     },});
    ```
 
-4. Start
+5. Start
    ```sh
    npm start
    ```
