@@ -63,6 +63,14 @@ This project is a full-stack web development endeavor with the goal of creating 
    - Users can vote on news articles, including rating them for their level of interest, how mind-blowing they are, and their credibility. All voting data is recorded and used to re-sort the news list. News articles are ranked based on the number of "interesting" votes, ensuring that users see the most intriguing news first. This provides an interactive and dynamic news browsing experience.
 
      <img width="1406" alt="Screen Shot 2023-11-01 at 7 17 03 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/74450d76-7c07-4249-bd60-eaf06ffe7cb7">
+
+
+4. **Content Type Filtering**: 
+
+   - Users can filter the content based on their preferences, for example, they can choose society, and content tagged with the history label will be displayed..
+
+     <img width="1354" alt="Screenshot 2024-01-21 at 4 34 25 PM" src="https://github.com/vickyzhang7/Real-or-Fake-Facts/assets/130918669/3df3d13a-5b97-489e-881e-2bb40475c609">
+
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
